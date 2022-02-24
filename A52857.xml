@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An English inquisition for a heretick Or, The punishment due to hereticks. Together with the nature and causes of heresie. Declared in a sermon preached at a visitation at Ware, upon the 19th. of April 1672. By Robert Neville, B.D. late Fellow of Kings-Colledge in Cambridge, and now Rector of Ansty in the county of Hertford.</title>
+            <author>Neville, Robert, 1640 or 1-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52857</idno>
+            <idno type="STC">Wing N519</idno>
+            <idno type="STC">ESTC R220263</idno>
+            <idno type="EEBO-CITATION">99831685</idno>
+            <idno type="PROQUEST">99831685</idno>
+            <idno type="VID">36150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36150)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2051:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An English inquisition for a heretick Or, The punishment due to hereticks. Together with the nature and causes of heresie. Declared in a sermon preached at a visitation at Ware, upon the 19th. of April 1672. By Robert Neville, B.D. late Fellow of Kings-Colledge in Cambridge, and now Rector of Ansty in the county of Hertford.</title>
+                  <author>Neville, Robert, 1640 or 1-1694.</author>
+               </titleStmt>
+               <extent>[6], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by S. and B.G. for Benj. Tooke, and are to be sold at the Ship in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Heresy --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36150:1"/>
+            <p>AN Engliſh Inquiſition FOR A HERETICK. OR, The Puniſhment due to <hi>Hereticks.</hi>
+            </p>
+            <p>Together with the Nature and Cauſes of <hi>Hereſie.</hi>
+            </p>
+            <p>Declared in a SERMON, Preached at a Viſitation at <hi>WARE,</hi> Upon the 19th. of <hi>April</hi> 1672.</p>
+            <p>By <hi>Robert Neville,</hi> B. D. late Fellow of <hi>Kings-Colledge</hi> in <hi>Cambridge,</hi> and now Rector of <hi>Anſty</hi> in the County of <hi>Hertford.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S.</hi> and <hi>B. G.</hi> for <hi>Benj. Tooke,</hi> and are to be ſold at the Ship in St. <hi>Pauls</hi> Church-yard. 1673.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36150:2"/>
+            <pb facs="tcp:36150:2"/>
+            <head>TO THE RIGHT WORSHIPFUL My Noble and Worthy Patron S<hi rend="sup">r</hi> 
+               <hi>ROWLAND LYTTON,</hi> Of <hi>Knebworth</hi> in the County of HERTFORD.</head>
+            <opener>
+               <salute>Right Worſhipfull Sir,</salute>
+            </opener>
+            <p>WHen I firſt put on Reſo<g ref="char:EOLhyphen"/>lutions of making this Diſcourſe Publick, I found no Diſpute within my ſelf to whom the Dedication of it was a juſt Debt; the Senſe of my many Obliga<g ref="char:EOLhyphen"/>tions to you ſoon put me in mind, that the Diſcourſe and the Author might deſervedly Own the ſame Patron: the chief Errand upon which it came a<g ref="char:EOLhyphen"/>broad,
+<pb facs="tcp:36150:3"/>
+being to make my gratefull Re<g ref="char:EOLhyphen"/>ſentments of them as well known to the World, as thoſe great Endearments and noble <g ref="char:V">Ʋ</g>ſages you have paſt upon me, have been to all, both our Clergy and Gentry, on this ſide of the County of <hi>Hertford:</hi> 'Tis by your Donation that I enjoy a Comfortable Subſiſtence; 'tis you alone that have been the Au<g ref="char:EOLhyphen"/>thor of the moſt viſible Contentment I receive in this World; and not then to have paid you the juſt Tribute of my Duty and Thanks, in the Dedication of this Diſcourſe, had been a palpable Contradiction to it, and made the Au<g ref="char:EOLhyphen"/>thor himſelf a Heretick, at leaſt in Morals, and an unpardonable Schiſma<g ref="char:EOLhyphen"/>tick and Separatiſt, both from Gratitude and Civility; for which he might have juſtly been Excommunicated from your good thoughts, which (next to that
+<pb facs="tcp:36150:3"/>
+dreadfull Excommunication from the Church) would, in his eye, be the greateſt misfortune that could befall him. What title this Sermon had to a Viſitation, it held from you <hi>in Capite;</hi> for it was by your means that the Au<g ref="char:EOLhyphen"/>thor of it was admitted (I will not ſo leſſen your kindneſs as to ſay a Mem<g ref="char:EOLhyphen"/>ber) to be the Head and Rector of the Church of <hi>Anſty;</hi> it was you alone that preſerv'd him, I cannot ſay from Schiſm, or Separation from the Church of <hi>England,</hi> (for be ever reſolv'd to live and dye a dutifull Son to that in<g ref="char:EOLhyphen"/>dulgent Mother) but from a Separa<g ref="char:EOLhyphen"/>tion from the Church of <hi>Anſty.</hi> I am not ignorant how unfit a Preſent this Trifle is to be offered to ſuch a Per<g ref="char:EOLhyphen"/>ſonage as Sir <hi>R. L.</hi> nor do I ſwell ſo much in my own conceit, as to think it any part of a juſt Return; I only de<g ref="char:EOLhyphen"/>ſire
+<pb facs="tcp:36150:4"/>
+it may paſs as a ſmall acknowledg<g ref="char:EOLhyphen"/>ment of thoſe many great favours you have heaped upon me, in the ſame manner as of old a pair of Doves were accepted from thoſe, whoſe abilities could not reach to a Lamb: and unleſs that great God, who was pleaſed to imploy you as a great Miniſter of his Providence to me and mine, ſhall en<g ref="char:EOLhyphen"/>able me, beyond either my deſervings, or expectancies, to pay my great Debt I owe you, I muſt run further upon the Score with you, and in the deepeſt ſenſe of duty and affection, court and graſp all opportunities of owning how much I am</p>
+            <closer>
+               <signed>Your obliged and indebted Orator, and humble Servant, R. NEVILLE.</signed>
+               <dateline>From my Study at <hi>Anſty,</hi> 
+                  <date>this 20th. day of <hi>December</hi> 1672.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36150:4"/>
+            <head>AN Engliſh Inquiſition FOR A HERETICK.</head>
+            <epigraph>
+               <q>
+                  <bibl>Tit. 3. Verſ. 10.</bibl>
+                  <p>A man that is an Heretick, after the firſt and ſecond admonition reject.</p>
+               </q>
+            </epigraph>
+            <p>THE Spirit of God did not without good reaſon reſemble the Church to a Lilly among Thorns, <hi>Cant.</hi> 2.2. as being made up of good and bad, a <hi>Compound</hi> of both; and this truth may be demonſtrated from the firſt Infancy of the world, from the early time of our Father <hi>Adam;</hi> and thoſe dayes, wherein the Church was con<g ref="char:EOLhyphen"/>fined within the narrow bounds and limits of the Families of the <hi>Patriarchs:</hi> a wicked <hi>Cain</hi> was to be found in it, as well as a good <hi>Abel;</hi> a pro<g ref="char:EOLhyphen"/>fane <hi>Eſau</hi> might have been ſeen under the ſame roof with religious <hi>Jacob:</hi> This truth is alſo fur<g ref="char:EOLhyphen"/>ther confirmed to us, by, that famous Type of
+<pb n="2" facs="tcp:36150:5"/>
+the Church, <hi>Noahs</hi> Ark; in which were Crea<g ref="char:EOLhyphen"/>tures of all kinds, Beaſts both clean and unclean: Gods Church hath in all ages had Chaff as well as good Corn; and in the very College of the Apoſtles, Chriſt's College, which, at its being firſt Founded, had but twelve Scholars, twelve Diſciples, there was one <hi>Judas,</hi> one Traytor, one Devil, <hi>John</hi> 6.70. and the Churches of <hi>Corinth, Galatia, Epheſus, Sardis,</hi> and <hi>Laodicea,</hi> were over-run with Errors and Hereſies: And in the Church of <hi>Crete,</hi> of which <hi>Titus</hi> (to whom St. <hi>Paul</hi> wrote this Epiſtle) was Archbiſhop, there was ſuch a neſt of Hereticks, known by the name of <hi>Gnoſticks,</hi> who imployed themſelves in com<g ref="char:EOLhyphen"/>piling a new Model of Divinity, made up of fooliſh Diſputes, and Heathen notions of Poeti<g ref="char:EOLhyphen"/>cal Genealogies, and contentions about obſer<g ref="char:EOLhyphen"/>ving the Moſaical Law; that St. <hi>Paul</hi> was forced to write to <hi>Titus,</hi> that it was his Office, as a Biſhop, firſt to <hi>admoniſh</hi> him, who made any ſuch Diviſion in the Church, or taught any Doctrine contrary to that, which was delivered by Chriſt and his Apoſtles; and if after the <hi>firſt and ſecond admonition,</hi> there was no amendment; then to proceed to Eccleſiaſtical Cenſures, to which he is prompted and excited, in theſe words of my Text, <hi>A man that is an Heretick, after the firſt and ſecond admonition reject.</hi> In which words are theſe two General parts.</p>
+            <p>Firſt, A Puniſhment to be inflicted, namely, the Cenſures of the Church, or Excommunica<g ref="char:EOLhyphen"/>tion; for ſayes the Text, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, avoid, or reject, after the <hi>firſt and ſecond
+<pb n="3" facs="tcp:36150:5"/>
+admonition, i. e.</hi> Excommunicate, and proceed to Cenſures againſt him.</p>
+            <p>Secondly, The Offender upon whom theſe heavy Cenſures were to be laid, <hi>[A man that is an Heretick.]</hi>
+            </p>
+            <p>Firſt, on the firſt, or the <hi>Puniſhment</hi> to be in<g ref="char:EOLhyphen"/>flicted, namely the Cenſures of the Church, or Excommunication; for ſayes the Text, <hi>[after the firſt and ſecond admonition reject,]</hi> that is, Excommunicate, and proceed to Cenſures againſt him: for by theſe words, <hi>[after the firſt and ſe<g ref="char:EOLhyphen"/>cond admonition]</hi> St. <hi>Paul</hi> referrs to the method preſcribed by Chriſt, in proceeding againſt Chri<g ref="char:EOLhyphen"/>ſtian Offenders, <hi>Mat.</hi> 18.5. but in ſome circum<g ref="char:EOLhyphen"/>ſtances differs from it: for in that forecited place of St. <hi>Matthew</hi> there is mention made of a three<g ref="char:EOLhyphen"/>fold admonition: one, by the injur'd perſon alone; a ſecond, by two or three taken with him; a third, by the Church: but here in my Text is only mention, of a <hi>Firſt</hi> and <hi>Second ad<g ref="char:EOLhyphen"/>monition:</hi> the Cauſe of this difference is to be taken from the Quality of the Perſon, to whom this was ſpoken; namely, his being a Biſhop; whereas in St. <hi>Matthew</hi> the ſpeech was addreſs'd to every private Chriſtian. Here in the Text, the firſt admonition of the Biſhop carries with it an Authority, far above that of the private perſon, and the two or three with him, and ſo may well ſupply the place of both thoſe: and then the ſe<g ref="char:EOLhyphen"/>cond admonition here in the Text, will be pa<g ref="char:EOLhyphen"/>rallel to the third admonition St. <hi>Matthew</hi> ſpeaks of; and ſo, after that is deſpiſed and contemn'd, 'tis ſeaſonable to proceed to Cenſures, and to
+<pb n="4" facs="tcp:36150:6"/>
+Excommunicate the perſon ſo offending. Thus 2 <hi>Cor.</hi> 13.2. immediately after the <hi>ſecond admo<g ref="char:EOLhyphen"/>nition</hi> deliver'd by St. <hi>Paul</hi> in theſe words, <hi>I fore<g ref="char:EOLhyphen"/>tell you the ſecond time;</hi> he tells the offenders, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>I will not ſpare you;</hi> and <hi>verſ.</hi> 10. he aſſures them, that this Admonition is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that he may not proceed to Exciſion, or Cutting off, which in the laſt word of that verſe, he calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>taking away;</hi> the word ordina<g ref="char:EOLhyphen"/>rily uſed in the Canons for Excommunication. The true meaning of theſe words <hi>[after the firſt and ſecond admonition reject]</hi> being diſcovered to you, and thereby the Cenſures or puniſhment due to Hereticks being declared; I ſhall diſmiſs this Firſt General, and lay hold on the Second, where we have</p>
+            <p n="2">2ly. The Offender, upon whom theſe heavy Cenſures were to be laid, namely, <hi>[a man that is an Heretick:]</hi> in the handling whereof, I ſhall purſue this method.</p>
+            <p>Firſt, I ſhall ſhew what Hereſie is.</p>
+            <p>Secondly, From what Fountain it ſprings or proceeds.</p>
+            <p>Firſt, I ſhall ſhew what Hereſie is: Although the word Hereſie, in it ſelf, ſignifies neither good nor bad; and therefore, in <hi>Euſebius, Conſtantine</hi> applys it to the Chriſtian Religion, calling it He<g ref="char:EOLhyphen"/>reſie; yet in Eccleſiaſtical Writers, if not con<g ref="char:EOLhyphen"/>ſtantly in the Scriptures, 'tis uſed in a bad ſence, and ſignifies an Election or adhering to a way of our own deviſing, and not that which was com<g ref="char:EOLhyphen"/>manded by God in his Holy Word: and there<g ref="char:EOLhyphen"/>fore <hi>Heſychius</hi> the Grammarian, defines a Heretick
+<pb n="5" facs="tcp:36150:6"/>
+thus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, He that chooſes ſome other Doctrine or Opinion be<g ref="char:EOLhyphen"/>ſides the Truth: but that we may not dwell al<g ref="char:EOLhyphen"/>ways <hi>in Cortice nominis,</hi> in the Bark or Outſide of the meer name, I ſhall deſcribe the Thing it ſelf to you: for the effecting whereof, I ſhall out of the large Harveſt of thoſe Authors that treat of it, glean this deſcription of Hereſie.<note n="a" place="margin">So Cardinal <hi>Tolet</hi> l. 4. c. 3. <hi>de inſtruct.</hi> and our own Country man <hi>Francis Maſon</hi> l. 2. c 10 p 164 c. 13. p. 197. 198. <hi>de mini<g ref="char:EOLhyphen"/>ſterio Angli<g ref="char:EOLhyphen"/>cano,</hi> have de<g ref="char:EOLhyphen"/>ſcribed it; and <hi>Alphonſus à Caſtro, adverſ. Haereſes.</hi> lib 1. p 4 defines it, <hi>Dogma falſum fidei Orthodoxae repugnans.</hi>
+               </note> 
+               <hi>Hereſie is an obſtinate Error in a Chriſtian man in ſome part contrary to the Catholick Faith;</hi> for the better underſtanding whereof, I ſhall enquire after theſe two particulars: 1. What things Hereſie ſup<g ref="char:EOLhyphen"/>poſes. 2ly. What things it implys and includes: and 1. I ſhall enquire what things Hereſie ſup<g ref="char:EOLhyphen"/>poſes: as namely, 1. A meer ſuperficial know<g ref="char:EOLhyphen"/>ledge of the Doctrine of the Goſpel, deliver'd and acknowledg'd in the Church of God: hence we read in 1 <hi>Cor.</hi> 11.19. <hi>there muſt be Hereſies amongſt you,</hi> you <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, you <hi>Corinthians,</hi> who are Members of the Viſible Church. True and Or<g ref="char:EOLhyphen"/>thodox Religion always goes before Hereſie:<note n="b" place="margin">Is eſt Haereti<g ref="char:EOLhyphen"/>cus qui jam ſuſcepto Bap<g ref="char:EOLhyphen"/>tiſmi Sacra<g ref="char:EOLunhyphen"/>mento, Haereſin amplexus eſt; addimus au<g ref="char:EOLhyphen"/>tem (ſuſcepto Baptiſmi Sa<g ref="char:EOLunhyphen"/>cramento) quia qui contraria fidei dogmata ſequitur, nec unquam in Ec<g ref="char:EOLhyphen"/>cleſiam catum<g ref="char:EOLhyphen"/>que Dei recep<g ref="char:EOLhyphen"/>tus eſt, Infide<g ref="char:EOLhyphen"/>lis potiùs quàm Haereticus eſt appellandus. <hi>Danaeus Haereſ. cap. 3.</hi>
+               </note> 
+               <hi>Danaeus</hi> therefore tells us, that a man muſt firſt have bound and oblig'd himſelf to the Chriſtian Faith, and have receiv'd the Sacrament of Chri<g ref="char:EOLhyphen"/>ſtianity, before he can properly be called an He<g ref="char:EOLhyphen"/>retick. Hence it is that Antichriſt, that man of Sin, is ſaid to ſit in <hi>the Temple of God,</hi> 2 <hi>Theſ.</hi> 2.4. that is, in <hi>the boſom of the Church:</hi> Hereſie there<g ref="char:EOLhyphen"/>fore is an Error, not of any kind of men, but of thoſe, who in appearance, and as far as the out<g ref="char:EOLhyphen"/>ward Profeſſion of it, made their pretences to the Chriſtian Faith, from ſome part or Article where<g ref="char:EOLhyphen"/>of they afterwards revolted and fell away: and
+<pb n="6" facs="tcp:36150:7"/>
+hereby we may eaſily diſtinguiſh between Here<g ref="char:EOLhyphen"/>ſie and Schiſm; Hereſie maintains a perverſe Opi<g ref="char:EOLhyphen"/>nion or Doctrine in the Church; Schiſm makes a raſh and needleſs Separation from the Church: Hereſie is a deſertion of Eccleſiaſtical Verity; Schiſm a breach of Eccleſiaſtical Unity.</p>
+            <p n="2">2ly. Hereſie ſuppoſes that ſome things may be retained, which in ſome particular ſavour of the Chriſtian Faith; although it hath long ſince been accounted an axiom in Divinity, <hi>quod Articuli Fidei ſint copulativi,</hi> that the Articles of Faith are copulative; and (as<note n="c" place="margin">Part 2. q. 159. memb. 7.</note> 
+               <hi>Alexander Hales</hi> tells us) Faith extends it ſelf <hi>ad omnia Credibilia,</hi> to all things that are Credible: ſo that he who denies One Article of Faith, <hi>in nullo ſanus judicetur,</hi> as<note n="d" place="margin">2. 2 q. 5. a t. 3. <hi>in corp</hi>
+               </note> 
+               <hi>Aquinas</hi> tells us, can be thought ſound in none. Yet no Heretick did ever abjure the whole Creed or Foundation of Faith, in every Article or part of it:<note n="e" place="margin">
+                  <hi>De Baptiſm. contra Donatiſt.</hi> l. 1. c 1.</note> St. <hi>Auguſtine</hi> affirms this of the <hi>Donatiſts</hi> themſelves, that in many things they concurr'd with him, though he left them in ſeve<g ref="char:EOLhyphen"/>ral Errors and Hereſies: for a Heretick in this, that though he reject many things, yet retains ſome, differs from a total and abſolute Apoſtate, who falls and revolts, not from ſome part only, but from the whole Evangelical Truth, which he before acknowledged.</p>
+            <p n="3">3ly. Hereſie ſuppoſes that the Scripture, or ſome part of it, at leaſt as to the letter, is to be retained as the Common Principle of diſputing. This <hi>Vincentius Lirinenſis</hi> obſerv'd of Hereticks, ſaying,<note n="f" place="margin">Mos eſt Haere<g ref="char:EOLhyphen"/>ticorum Scrip<g ref="char:EOLunhyphen"/>turarum um<g ref="char:EOLhyphen"/>braculis erro<g ref="char:EOLhyphen"/>res ſuos peſſi<g ref="char:EOLhyphen"/>mos obtegere <hi>Vinc. Lit c. 35. 36, 37. in com<g ref="char:EOLhyphen"/>monitor. ad<g ref="char:EOLhyphen"/>verſ Haer.</hi>
+               </note> 
+               <hi>'Tis the cuſtom of Hereticks to ſhade and ſhelter their foul Errors under the Covert of
+<pb n="7" facs="tcp:36150:7"/>
+Scripture.</hi> Thoſe notorious Hereticks, <hi>Arrius, Pelagius,</hi> and the <hi>Manichees,</hi> did not univerſally deny the Authority of the Scripture, but at<g ref="char:EOLhyphen"/>tempted the Defence of their Errors by Scrip<g ref="char:EOLhyphen"/>ture, though impertinently alledged by them: they dealt with the Scriptures, as Chymiſts deal with Natural Bodies, torturing them to extract that out of them, which God and Nature never put in them: and as he that bought <hi>Orpheus</hi> his Harp, thought it would of it ſelf make moſt ad<g ref="char:EOLhyphen"/>mirable Muſick, how unſkilfully ſoever he toucht it; ſo theſe men ſuppoſed, that Scripture would ſound wonderfull Muſically, if they did but han<g ref="char:EOLhyphen"/>dle it, with how great incongruity ſoever it was. And thus having diſcover'd to you what things Hereſie ſuppoſes; I now come to ſhew,</p>
+            <p>Secondly, What things it implys and in<g ref="char:EOLhyphen"/>cludes: and</p>
+            <p>Firſt, It includes an error of Judgment, not of Manners: being placed in the Reaſon or Judg<g ref="char:EOLhyphen"/>ment, not in Deeds or Actions: according to that known ſaying, <hi>Factum ſine Errore non facit Haereticum;</hi> no Matter of Fact without an Error in the Judgment can make a Heretick: which I ſhall confirm and illuſtrate by this inſtance; Ado<g ref="char:EOLhyphen"/>ration paid to Devils, though it be Idolatry in the higheſt degree, and to be abominated like Hell it ſelf; yet if it be done without any Opinion of Divinity exiſting in thoſe Infernal Spirits, 'tis not to be called Hereſie;<note n="g" place="margin">Res enim ef<g ref="char:EOLhyphen"/>fecta abſque judicio intel<g ref="char:EOLhyphen"/>lectus definien<g ref="char:EOLhyphen"/>tis, peccatum eſſe poteſt. Hae<g ref="char:EOLhyphen"/>reſis autem minimè <hi>Al<g ref="char:EOLhyphen"/>phonſ. à Ca<g ref="char:EOLunhyphen"/>ſtro lib 1. adverſ Haereſ. p. 3.</hi>
+               </note> 
+               <hi>For a thing done without the judgment of the <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding, may be a Sin, but not a Hereſie,</hi> ſayes <hi>Alphonſus à Caſtro.</hi>
+            </p>
+            <pb n="8" facs="tcp:36150:8"/>
+            <p n="2">2ly. Hereſie, as it is an Error of Judgment, not of Manners; ſo it hath for its Object a Matter of Faith, or the Doctrine of the Goſpel. There may be great Errors in the Mathematicks, in Natural, or in Moral Philoſophy, but thoſe who are en<g ref="char:EOLhyphen"/>tangled in theſe Errors, muſt not be put into the Liſt and Catalogue of Hereticks; for they are only ſuch, who have corrupt Judgments in mat<g ref="char:EOLhyphen"/>ters of the Chriſtian Faith. And as they have Matters of Faith for their Object, ſo</p>
+            <p n="3">3ly. Have they thoſe Points of Faith, which are Eſſentials and Fundamentals, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſuch as are neceſſarily and explicitly, to be believed by all: and therefore Hereticks may be ſaid to be ſuch, as <hi>Col.</hi> 2.19. <hi>Hold not the head:</hi> without which there is no Salvation. Hereticks (as<note n="h" place="margin">Quaeſt. 11. Artic. 2 part 2. 2.</note> 
+               <hi>Aquinas</hi> tells us) are ſuch, as harbour a falſe Opinion of thoſe things, <hi>quae ad Fidem pertinent,</hi> which belong to Faith; to which any thing may belong, two ways; either directly and princi<g ref="char:EOLhyphen"/>pally, as do all the Articles of Faith: or elſe in<g ref="char:EOLhyphen"/>directly and ſecondarily, as do all thoſe Points, to the denying whereof, the Corruption of ſome Fundamental Article is a neceſſary Conſequent.</p>
+            <p n="4">4ly. To all theſe Obſtinacy or Contumacy may be ſuperadded, which is the Specifical Difference of Hereſie, the chief Conſtituent part that makes up this Sin; to which we may referr that known ſaying of St. <hi>Auguſtine,</hi>
+               <note n="i" place="margin">Errare poſſum Haereticus eſſe nolo.</note> 
+               <hi>I may erre, but I will not be a Heretick:</hi> for there is always required to Hereſie, not only an Erroneous Judgment, but alſo an Obſtinate Will. I ſhall conclude this par<g ref="char:EOLhyphen"/>ticular, with thoſe words of St. <hi>Auguſtine,</hi> againſt
+<pb n="9" facs="tcp:36150:8"/>
+the <hi>Manichees.</hi>
+               <note n="k" place="margin">Qui in Eccle<g ref="char:EOLhyphen"/>ſiâ Chriſti pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vum aliquid ſapiunt, ſi cor<g ref="char:EOLhyphen"/>repti ut ſanum rectum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſapí<g ref="char:EOLhyphen"/>ant, reſiſtunt contumaciter, ſua<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> peſtifera Dogma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a de<g ref="char:EOLhyphen"/>fendere per<g ref="char:EOLhyphen"/>ſiſtunt Here<g ref="char:EOLhyphen"/>tici ſunt <hi>l 18. de Civ Dei. cap. 51.</hi>
+               </note> 
+               <hi>They who ſavour of, or main<g ref="char:EOLhyphen"/>tain any falſe or corrupt Doctrine in the Church of Chriſt, if after a rebuke, or admonition to forſake their Error, and embrace the Truth, they ſhall out of Contumacy ſtand out, and perſiſt to defend their poiſonous Doctrines, they are Hereticks.</hi>
+            </p>
+            <p>And thus having ſhewn what Hereſie is, I ſhall proceed to evince, 2ly From what Fountain it ſprings and proceeds. Now this Sin of Hereſie, like the River <hi>Nilus,</hi> hath many Heads, many Fountains, as namely.</p>
+            <p>Firſt, Pride:<note n="l" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. l. 1 Haereſ. 75. Edit. Petav.</note> 
+               <hi>Epiphanius</hi> tells us of that Arch-heretick <hi>Arrius,</hi> that being <hi>high and lofty in his own thoughts, he went out of the right way, and departed from the Truth.</hi> And<note n="m" place="margin">Euſeb. Ec<g ref="char:EOLhyphen"/>cleſiaſt Hiſt. lib 4 cap. 21.</note> 
+               <hi>Thebulis,</hi> the firſt Heretick in the Church of <hi>Jeruſalem,</hi> fell into Hereſie, becauſe he was not permitted to ſucceed <hi>Simeon</hi> in that Biſhoprick; his pride and ambition could not brook the loſs and defeat of ſo high a place in the Church. You will find a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Hereticks perching upon the ſame Pinnacle, the Devil ſtood, the <hi>High Pinnacle of Pride:</hi> the He<g ref="char:EOLhyphen"/>retick <hi>Aerius</hi> (if we will believe <hi>Epiphanius</hi>) had<note n="n" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. l. 1. Haer. 75. lib. 4. cap. 21.</note> 
+               <hi>an ambition to be exalted;</hi> and though he wanted merit to advance him from a Presbyter to a Biſhop, yet he wanted not arrogance to leſſen the Biſhop into a Presbyter: and this was the bane of <hi>Origen,</hi> a man of as great Learning, as ever that Age, he lived in, gave birth to; who, in his Comments upon the Scripture, conceiving (out of the high opinion of his own Wit and Parts) ſtrange Meteors, and aiery Speculations, brought forth thoſe dangerous Errors, which drew upon
+<pb n="10" facs="tcp:36150:9"/>
+his Perſon the heavieſt<note n="o" place="margin">Lamentation of <hi>Origen,</hi> in Euſeb. lib. 7. Eccleſ. Hiſt. cap. 1. p 122.</note> Cenſures of the Church, and upon Poſterity the loſs of ſome of his Writings. And<note n="p" place="margin">Eccleſ Hiſt. lib. 7. c. 29. p 140.</note> 
+               <hi>Euſebius</hi> tells us, that, that blaſphemous Heretick, <hi>Paulus Samoſatenus,</hi> who denied the Divinity of Chriſt, was pufft up with Pride, and uſurped Secular Dignities: and, even in the times of the Apoſtles, there was a proud <hi>Diotrephes,</hi> who 3 <hi>Epiſt. John</hi> 9. <hi>loved to have prehentinence among them.</hi>
+            </p>
+            <p n="2">2ly. Hereſie proceeds from Affectation of No<g ref="char:EOLhyphen"/>velty; whether it be 1. In our Opinions: or 2ly. In our Words and Phraſes.</p>
+            <p n="1">1. Hereſie proceeds from Affectation of No<g ref="char:EOLhyphen"/>velty in our Opinions: The Nature of men, eſpecially of ſuch as are Heretically inclined, is greedy of Novelty; and<note n="q" place="margin">Lib. 7. cap. 32 p. 369. Eccl. Hiſt.</note> 
+               <hi>Socrates</hi> obſerves of the Heretick <hi>Neſtorius,</hi> that he ſcorn'd to peruſe the Works of the Antient Fathers; preferring himſelf, and his own Novel Opinions, before them all. That we may therefore ſtop this Inlet to Hereſie, Affectation of Novelty, let us call to mind the advice of the Prophet, <hi>Jer.</hi> 6.16. <hi>Stand ye in the wayes, and ſee, and ask for the old paths:</hi> the Old way is the Safe way. In Chriſtianity there can be no <hi>Concerning Truth</hi> which is not An<g ref="char:EOLhyphen"/>tient; and whatſoever is <hi>truly new,</hi> is <hi>certainly falſe:</hi> Look then for <hi>Purity in the Fountain,</hi> and ſtrive to embrace the <hi>firſt Faith.</hi> There are but few things, ſo little, or ſo great, either in Art or Nature, which are not willing to take advantage from the meer credit of their Antiquity: in Reli<g ref="char:EOLhyphen"/>gion alſo the caſe is clear, <hi>That which is firſt is trueſt,</hi> as<note n="r" place="margin">
+                  <hi>Id verius quod prius</hi> Tertul. adverſ. Marc. lib. 4. cap. 5</note> 
+               <hi>Tertullian</hi> well obſerves. And as
+<pb n="11" facs="tcp:36150:9"/>
+Hereſie ſometimes proceeds from Affectation of Novelty in our Opinions, ſo</p>
+            <p n="2">2ly. Doth it proceed from Affectation of No<g ref="char:EOLhyphen"/>velty in our Words and Phraſes; An unuſual and new Form, or Mode of ſpeaking in the Doctrine of Faith, opens a Window, if not a Door, to He<g ref="char:EOLhyphen"/>reſie: A Soleciſme in Words ſometimes turns to a Soleciſme in Doctrine: The Heretick <hi>Neſtorius</hi> (as<note n="ſ" place="margin">Eccleſ. Hiſt. lib 7. cap 32.</note> 
+               <hi>Socrates</hi> tells us) becauſe he would not allow the Virgin <hi>Mary</hi> to be called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Mother of God, but quarrell'd with that form of ſpeech, which the Practice and Cuſtom of the Church had ſtampt for currant; choſe rather to deny the Unity of Chriſts Perſon in his <hi>Thean<g ref="char:EOLhyphen"/>thropy,</hi> than to ſpeak in the Phraſe and Language of the Antient Church.</p>
+            <p n="3">3ly. Hereſie ſometimes proceeds from Weak<g ref="char:EOLhyphen"/>neſs and Ignorance: ſimple and unlearned Souls, train'd up by men of Contentious Spirits, have had ſtrength enough to be the Authors of dan<g ref="char:EOLhyphen"/>gerous Hereſies.<note n="t" place="margin">Euſeb. Ec<g ref="char:EOLhyphen"/>cleſiaſt Hiſt. lib 5 cap. 13.</note> 
+               <hi>Priſcilla</hi> and <hi>Maximilla,</hi> two ſilly women, laden with iniquity, were the chief Ring-leaders in the Error of the <hi>Montaniſts:</hi> what one ſaid of Civil Contentions, holds true alſo of Hereſies, <hi>audacia etiam valet ſingulorum,</hi> no man is too weak, I ſay not to do a miſchief, but to be a Principal Agent and Leader in He<g ref="char:EOLhyphen"/>reſie. Ignorance is uſually the Mother of Con<g ref="char:EOLhyphen"/>fidence, and makes men venture upon things, above the Sphere of their low capacities, leap from the Shop-board to the Pulpit, and become <hi>ex tempore</hi> Teachers and Interpreters of Scrip<g ref="char:EOLhyphen"/>ture, which, being unlearned, <hi>they wreſt unto their
+<pb n="12" facs="tcp:36150:10"/>
+own deſtruction,</hi> 2 <hi>Pet.</hi> 3.16. it was<note n="u" place="margin">Sola Scriptu<g ref="char:EOLunhyphen"/>rarum ars eſt quam omnes paſſim ſibi ven<g ref="char:EOLhyphen"/>dicant: <hi>in Epiſtol. ad Paulin.</hi>
+               </note> St. <hi>Hieroms</hi> complaint, (and I wiſh it might not ſtill be ours) that Practitioners of other Arts could contain themſelves within the bounds of their own Pro<g ref="char:EOLhyphen"/>feſſion, but that <hi>every one pretends to the Art and skill of interpreting Scripture.</hi>
+            </p>
+            <p n="4">4ly. Hereſie ſometimes proceeds from a deſire in men, to ſhrowd themſelves under the great name of ſome famous perſon; <hi>Jud.</hi> 16. <hi>Having mens perſons in admiration:</hi> Hence ſprang that Rhapſody of Hereſies, with which the Church did ever abound, the <hi>Cerinthians, Nicolaitans, Arri<g ref="char:EOLhyphen"/>ans, Manichees, Pelagians, Socinians, &amp;c.</hi> both the time and your patience would fail me, if I ſhould recite all thoſe, which <hi>Irenaeus, Epipha<g ref="char:EOLhyphen"/>nius,</hi> St. <hi>Auguſtine, Alphonſus à Caſtro,</hi> and others have taken the pains to reckon up: Such men as thoſe which I but now named to you, uſually place the Founder of that Hereſie, to which they are Retainers, as a Star in the Firmament, and walk by the Light which he caſteth, and by no other, though it come from the Sun it ſelf. So that it were not amiſs to adviſe them to take up that excellent Reſolution of<note n="x" place="margin">Haec ſenten<g ref="char:EOLhyphen"/>tia mihi ſtat, nallius homi<g ref="char:EOLhyphen"/>nis praeterquam Jeſu Chriſti nobis à Coeleſti Patre commen<g ref="char:EOLhyphen"/>dati, nomen ferre, nulli me mancipare. <hi>Vorſtii Epiſt. ad Chr. Per. p. 79. inter Epiſt. Theol. Praeſt. ac erud v<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>orum.</hi>
+               </note> 
+               <hi>Vorſtius, to bear no other Name but that of Chriſt;</hi> wear no <hi>Title but that of Chriſtian:</hi> for why ſhould the <hi>Truth</hi> be built upon a <hi>Name?</hi> which, though it be glo<g ref="char:EOLhyphen"/>rious in the world, is but the name of a <hi>Man,</hi> who is ſubject to Error. <hi>Tolle mihi è cauſà nomen Ca<g ref="char:EOLhyphen"/>tonis,</hi> ſayes <hi>Tully; Cato</hi> was a Name in great re<g ref="char:EOLhyphen"/>pute, and that carried Authority with it; and therefore the Orator did not think fit to have him a Witneſs againſt his Client <hi>Murena:</hi> ſo, <hi>tolle
+<pb n="13" facs="tcp:36150:10"/>
+mihi è cauſâ nomen Calvini aut Socini,</hi> take away the name of <hi>Calvin,</hi> or <hi>Socinus,</hi> if you would diſcover the Truth: <hi>There is but one name by which you can be ſaved, Act.</hi> 4.12. and his name alone muſt prevail with you.</p>
+            <p n="5">5ly. Hereſie oftentimes grows from Covetouſ<g ref="char:EOLhyphen"/>neſs, which 1 <hi>Tim.</hi> 6.10. is the <hi>Root of all evil, which while ſome coveted after, they have erred from the Faith:</hi> thus<note n="y" place="margin">lib. 5 c 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Theodoret</hi> tells us of <hi>
+                  <g ref="char:V">Ʋ</g>lphila</hi> Biſhop of the <hi>Goths,</hi> who being enticed and allured by <hi>money, drew all the Barbarians into Communion with the Arrian Hereticks:</hi> and holy<note n="z" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ignat. Epiſtol ad Magnes.</note> 
+               <hi>Ignatius,</hi> deſcribing ſome Hereticks that did then infeſt the Church, tells us that they were, <hi>Covetous of other mens goods, and greedy of wealth:</hi> This ſent that ſwarm of Flies and Locuſts, the <hi>Novatians,</hi> the <hi>Puritans</hi> of thoſe times, Diſciples of <hi>Novatus,</hi> who would needs be ſtiled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>pure;</hi> but as pure as he pretended to be, he was (ſayes <hi>Nazianzen</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Covetous perſon. This Sin is the great Coiner of Hereſies, which are nothing elſe but the inventions of worldly<g ref="char:EOLhyphen"/>minded men, working out of the Elaboratory of their Fancy, ſome new Doctrine, which may fa<g ref="char:EOLhyphen"/>vour and feed their Covetous humour, and make them rich and great in the world: this built a <hi>Throne</hi> for the <hi>Pope,</hi> and a <hi>Conſiſtory</hi> for the <hi>Diſci<g ref="char:EOLhyphen"/>plinarian:</hi> this hath ſtated many Queſtions, and ſate as <hi>Preſident</hi> at moſt Councils: for, be the man what he will, private Intereſt is commonly the <hi>Doctor of the Chair,</hi> and <hi>è Cathedrâ</hi> determines all things; and whatſoever is once found advantagi<g ref="char:EOLhyphen"/>ous, ſhall ſoon be determined ſound and Ortho<g ref="char:EOLhyphen"/>dox.</p>
+            <pb n="14" facs="tcp:36150:11"/>
+            <p n="6">6ly. Hereſie ſometimes proceeds from exalting Reaſon too high in matters of <hi>pure Faith:</hi> I ſay matters of <hi>pure Faith;</hi> for thoſe Principles which the Scripture contains, are of two ſorts; <hi>Mixt,</hi> and <hi>Pure;</hi> the <hi>Mixt</hi> are thoſe that are both diſ<g ref="char:EOLhyphen"/>cover'd by Reaſon, and declared by Revelation, and ſo are Principles both of Reaſon and Faith: of this kind are the Attributes of God, Moral Good and Evil, and the Soul's Immortality. The Principles of <hi>pure Faith</hi> are ſuch, as are known only by the Divine Teſtimony, as, the Miracu<g ref="char:EOLhyphen"/>lous Conception, the Incarnation, and the Tri<g ref="char:EOLhyphen"/>nity: and to this purpoſe hath <hi>Eulogius</hi> an ex<g ref="char:EOLhyphen"/>cellent Oration, againſt thoſe who think to be able to comprehend thoſe ſublime Truths in Scripture that concern the Trinity, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by the Wit or Reaſon of man: theſe Principles of <hi>pure Revelation,</hi> Reaſon cannot im<g ref="char:EOLhyphen"/>mediately demonſtrate; nor can we expect it ſhould, for they are matters of Divine Teſti<g ref="char:EOLhyphen"/>mony; all that it can do herein, is to aſſert the Credibility and Truth of thoſe teſtimonies that relate ſuch matters, in proving the Divine Au<g ref="char:EOLhyphen"/>thority of the Scriptures: and it is no more diſ<g ref="char:EOLhyphen"/>paragement to our Reaſons, that they cannot evince theſe Sacred Truths of <hi>pure Revelation</hi> by their own ſtrength; than it is a diſgrace to them, that they cannot know that there are ſuch things as Colours, without the help of our eyes; or that there are Sounds, without the Faculty of hearing. Reaſon in theſe things muſt ſtrike ſail to Faith: and, many times, becauſe ſhe refuſes to borrow Spectacles of Faith to look into theſe
+<pb n="15" facs="tcp:36150:11"/>
+Myſteries, ſhe runs men into Hereſie. Thus the <hi>Socinians,</hi> by exalting Reaſon too high, and making it the Standard of Divine Truths, and Principles of pure Revelation, fell into that dangerous Hereſie of denying Chriſt's Divi<g ref="char:EOLhyphen"/>nity, denying that he is the true, great, and eternal God.</p>
+            <p n="7">7ly. Hereſie proceeds from a wilfull wreſting and diſtorting the Scripture: Scripture is either mangled by Hereticks, or put upon the Rack: uſed as <hi>Procruſtes</hi> uſed his Gueſts, either cut off in ſome part of it, or ſtretcht too far; and is in<g ref="char:EOLhyphen"/>terpreted by them, as <hi>Jonathan</hi> ſhot his arrows, ſometimes beyond, ſometimes beſide, ſometimes ſhort of the ſence of it: they are ſo much in love with their own Heretical Opinions, that they will let the Scripture ſpeak no ſence but theirs; and (like the Harlot in the Book of <hi>Kings</hi>) they take their dead and putrefied fancies, and lay them in the Boſom of Scripture: and as <hi>Euphra<g ref="char:EOLhyphen"/>nor</hi> the Painter, having wearied his Art and Fancy, in drawing the Pictures of the leſſer Gods, fail'd and came ſhort in ſetting out the Majeſty of <hi>Jupiter;</hi> ſo theſe men having wearied their Art and ſkill, in drawing the Pictures of their own little fancies and conceits, fall ſhort of the true interpretation of Scripture; and will not be perſwaded, that it hath too much <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſublimity, and Majeſty in it, to ſtoop to ſuch low, and mean Phanſies, as they would pin and faſten upon it: from whence it comes to paſs, that when they find the Scripture run counter to them, rather than ſubmit to it, they will be guilty
+<pb n="16" facs="tcp:36150:12"/>
+of <hi>Scripture-Slaughter,</hi> as <hi>Tertullian</hi> calls it;<note n="a" place="margin">
+                  <hi>Marcion</hi> ex<g ref="char:EOLhyphen"/>ertè &amp; palam machaerâ non ſtylo uſus eſt; quoniam ad materiam ſuam caedem Scripturarum confecit. <hi>Tert. de praeſcript. Haereticor. c. 38. And the ſame Author ſpeaking of other Here<g ref="char:EOLhyphen"/>ticks goes on to the ſame purpoſe as followeth;</hi> De verbi au<g ref="char:EOLunhyphen"/>tem admini<g ref="char:EOLunhyphen"/>ſtratione quid dicam; cum hoc fit nego<g ref="char:EOLhyphen"/>tium illis, non ethnicos con<g ref="char:EOLhyphen"/>vertendi, ſed noſtros ever<g ref="char:EOLhyphen"/>tendi? hanc magis gloriam captant, ſi ſtan<g ref="char:EOLhyphen"/>tibus ruinam, non ſi jacenti<g ref="char:EOLhyphen"/>bus elevatio<g ref="char:EOLhyphen"/>nem operentur; quoniam opus eorum non de ſuo proprio aedi<g ref="char:EOLhyphen"/>ficio venit, ſed de veritatis deſtructione. <hi>de praeſcript. Haeret c. 42.</hi>
+               </note> 
+               <hi>Marcion</hi> (ſayes he) draws his Sword, and cuts off a part of the Scripture: ſo that 'tis no wonder that theſe men who handle the Scripture with ſuch rude and violent hands, force it to look which way they would have it; it being no hard thing for a man of parts, who is reſolved never to be divorc'd from an eſpouſed Opinion, to find ſome places of Scripture, which by ſkil<g ref="char:EOLhyphen"/>full handling, will be perſwaded to caſt a fa<g ref="char:EOLhyphen"/>vourable countenance upon it. <hi>Tully</hi> tells us of a Muſician, who being aſk'd what the Soul was, anſwer'd, that it was a Harmony; <hi>&amp; is à prin<g ref="char:EOLhyphen"/>cipiis artis ſuae non receſſit;</hi> and he knew not (ſayes he) how to leave the Principles of his own Art. Again, <hi>Plato</hi>'s Scholars had been train'd up in Arithmetick, and the knowledge of Num<g ref="char:EOLhyphen"/>bers, and hence it came, that when afterwards they diverted their Studies, either to Natural or Moral Philoſophy, they ſtill fancied to themſelves ſomewhat like unto Numbers, and thereupon fell upon a conceit, that <hi>Numbers were the Principles of all things:</hi> ſo when theſe men come to read the Scripture, it fares much with them as it did with <hi>Tully</hi>'s Muſician, or <hi>Plato</hi>'s Scholars; they cannot forſake thoſe erroneous Principles, and falſe Opinions, in which they have been brought up and educated: and as to thoſe, who are ſick of the Jaundies, all things ſeem yellow and diſcoloured; ſo to theſe men, all thoſe parts of the Scripture they look upon, ſeem of the ſame Colour and Complexion with their own Opinions. They Lacquy the
+<pb n="17" facs="tcp:36150:12"/>
+Scriptures to their own private thoughts and ſentiments.</p>
+            <p n="8">8ly. Hereſie ſometimes proceeds from Cor<g ref="char:EOLhyphen"/>ruption in Morals, from Looſeneſs of life and manners; which oftentimes point out a Heretick, and help us to find him out with more Certainty, than the Inquiſition does the ſuppoſed Heretick. Thoſe that are <hi>Followers</hi> of their own Luſts, have often been found <hi>Haereſiarchae, Leaders</hi> in Hereſie, 2 <hi>Pet.</hi> 2, 14. <hi>having eyes full of adultery, and that cannot ceaſe from ſin, beguiling unſtable ſouls;</hi> and verſ. 15. <hi>have forſaken the right way, and gone aſtray.</hi> Thus <hi>Simon Magus</hi> went about with a famous Strumpet called <hi>Helena,</hi> whom he ſtiled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his <hi>firſt Conception,</hi> and preach'd up the lawfulneſs of all manner of Filthineſs: thus <hi>Dionyſius</hi> of <hi>Alexandria</hi> tells us, that that Arch-Heretick <hi>Cerinthus,</hi> taught this Doctrine,<note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. lib. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>that Chriſts Kingdom ſhould be an earthly one;</hi> and, agreeable to his fancy who was (ſayes my Au<g ref="char:EOLhyphen"/>thor) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a very <hi>Carnal man,</hi> that it ſhould conſiſt in ſatisfying the Paunch, and Luſt, in Meats and Drinks, and Senſual Pleaſures. And <hi>Ignatius</hi> ſpeaking of ſome Hereticks of his Age, tells us that they were,<note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ignat. Epiſt. ad Magnes.</note> 
+               <hi>Corrupters and De<g ref="char:EOLhyphen"/>filers of Women:</hi> I could tell you alſo of thoſe ſhameleſs Luſts of the <hi>Nicolaitans,</hi> who, as <hi>Clemens Alexandrinus</hi> tells us,<note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Clem Alex. Stromat. l. 3.</note> 
+               <hi>Commit all kinds of Filthineſs without ſhame,</hi> ſaying that they muſt<note n="e" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. ibid. vide eti<g ref="char:EOLhyphen"/>am Euſeb Ec<g ref="char:EOLhyphen"/>cleſ. Hiſtor. l. 3 cap 26.</note> 
+               <hi>Fight with, and affront and abuſe the fleſh:</hi> to which I might add the Hereſies of <hi>Me<g ref="char:EOLhyphen"/>nander</hi> and <hi>Carpocrates,</hi> were they not too filthy for chaſt and modeſt ears.</p>
+            <pb n="18" facs="tcp:36150:13"/>
+            <p n="9">9ly. And laſtly, They that are Enthuſiaſts, and leaving the Word of God, pretend to the Spirit, to Extatical Raptures and Tranſportati<g ref="char:EOLhyphen"/>ons, may be ſaid to be, if not Hereticks, yet in a ready way to Hereſie. Thus we read of that Arch-Heretick <hi>Montanus,</hi> that he pretended to have received a Comforter from Heaven, and two Propheteſſes, <hi>Priſcilla</hi> and <hi>Maximilla,</hi> and that he received certain Viſions and Revelations both by himſelf and his Followers; and<note n="f" place="margin">l 1. Haer. 74.</note> 
+               <hi>Epipha<g ref="char:EOLhyphen"/>nius</hi> tells us, that thoſe Hereticks, the <hi>Nazaraei,</hi> did boaſt of their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their Enthuſiaſms; and<note n="g" place="margin">l. 2. c. 20.</note> 
+               <hi>Irenaeus</hi> tells us of that Arch-Heretick <hi>Cerinthus,</hi> that teaching his Diſciples <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſome Doctrines of Filthineſs, not to be named, he pretended to have received them in Revelations. <hi>Lucian</hi> in his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Falſe Prophet,</hi> makes mention of a Mountebank Chea<g ref="char:EOLhyphen"/>ter, who that he might the more artificially de<g ref="char:EOLhyphen"/>ceive the People, ſet up an Oracle of his own contrivance, and like the Prieſts of the true Ora<g ref="char:EOLhyphen"/>cles, (whence the <hi>Sybil</hi> never gave anſwer but in an Extaſie) he had his Sacred Furies, his Holy Trances, and appeared to all as inſpired by ſome Deity; and ſo our Heretical Enthu<g ref="char:EOLhyphen"/>ſiaſts pretend to Spiritual Tranſports, and Inſpi<g ref="char:EOLhyphen"/>red Raptures, as oft as they would give birth to any erroneous Doctrine; and feign to them<g ref="char:EOLhyphen"/>ſelves as great a familiarity with God, as ever <hi>Numa</hi> did with his Goddeſs <hi>Egeria:</hi> but let me tell them, notwithſtanding their Seraphical pre<g ref="char:EOLhyphen"/>tenſions to the Spirit, that the ſame may be ſaid of their <hi>Meeting-houſes,</hi> which was once ſaid in
+<pb n="19" facs="tcp:36150:13"/>
+ſcorn of the <hi>Conclave of Cardinals,</hi> when they claſht for the ſpace of two years about the choice of a Pope, <hi>They had need to uncover the roof of the houſe, to make way for the Holy Ghoſt to come upon them:</hi> and with ſuch perſons as theſe is this our Age too much infeſted, who are both Here<g ref="char:EOLhyphen"/>tical Schiſmaticks, and Schiſmatical Hereticks; they ſeparate from us by Schiſm, and (to fill up the meaſure of their iniquity) they add to their Schiſm many dangerous and damnable Hereſies; and inſtead of the <hi>tryed ſilver of Gods Word,</hi> they ſtamp the Name and Character of God upon <hi>Nehuſhtan,</hi> upon brazen ſtuff of their own: So that what <hi>Alexander Borgia</hi> was wont to ſay of the Expedition of the <hi>French</hi> into <hi>Naples, [that they came with Chalk in their hands to mark out their Lodgings, and not with Weapons to fight for them]</hi> may be ſaid of theſe men who pretend to ſuch Infallibility in interpreting Scripture, <hi>they mark out their Concluſions whereon they may reſt, without producing any rational premiſes which may force an aſſent;</hi> and whereas Scripture ſhould be as the Seal to be ſet upon all their Doctrines and Poſitions, to make them paſs for Sound and Warrantable; they make it as Wax, to receive the impreſſions of their own wild Fancies, and cauſe the <hi>Sheaf</hi> of Scripture to <hi>bow to their Sheaf:</hi> theſe Enthuſiaſts, with al<g ref="char:EOLhyphen"/>moſt all other Sectaries, may very fitly be put in the number (if not of Hereticks) yet of thoſe that are in a fair way to Hereſie; there being ſcarce any Sect among them, which may not de<g ref="char:EOLhyphen"/>rive its Pedigree from ſome antient Heretick:
+<pb n="20" facs="tcp:36150:14"/>
+the<note n="h" place="margin">Euſeb. Feel. Hiſt. l 3 c. 5.</note> 
+               <hi>Millenaries,</hi> from <hi>Papias;</hi> the<note n="i" place="margin">Irenaeus l. 1 c. 24 p. 79. Excuſ. 1570.</note> 
+               <hi>Ran<g ref="char:EOLhyphen"/>ters,</hi> from <hi>Carpocrates,</hi> whoſe Doctrine it was, that there was no other way of appeaſing the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Princes of this World, but by paying them their dues by all their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>unnatural filthineſs:</hi> the <hi>Anabaptiſts</hi> may derive their Sect from <hi>Agrippinus,</hi> as<note n="k" place="margin">Contra Do<g ref="char:EOLhyphen"/>natiſt. Tom 7. lib. 2. p. 369. Edit Baſil</note> St. <hi>Auguſtine</hi> clearly demonſtrates: the<note n="l" place="margin">Epiph. Haer. 75 p. 904. Tom 1. Edit. Petav.</note> 
+               <hi>Anti-epiſcopal Diſciplinarians,</hi> from the Heretick <hi>Aerius:</hi> the<note n="m" place="margin">Epiph Haer. 62 p. 513.</note> 
+               <hi>Socinians</hi> bear date from <hi>Sabellius:</hi> the<note n="n" place="margin">Irenaeus l 1. c. 10 p. 48, &amp;c.</note> 
+               <hi>Irreſpective Reprobatarian,</hi> from <hi>Simon Ma<g ref="char:EOLhyphen"/>gus</hi> and the <hi>Manichees,</hi> as we may ſee in <hi>Iraeneus:</hi> ſo that having traced our Modern Sectaries to their firſt Parents, the antient Hereticks, I have made my way eaſier to demonſtrate to you, that many times Hereticks and Schiſmaticks hunt in Couples; and though of diſagreeing and diffe<g ref="char:EOLhyphen"/>rent Principles, yet they agree and combine in their wicked deſigns againſt the Church, the one to corrupt her Doctrine, the other to break her Unity; which that I may evince, I ſhall ſhew you that Schiſm flows from the ſame Fountains, that I have already proved Hereſie does: amongſt which, I ſhall at preſent inſtance only in theſe three.</p>
+            <list>
+               <item>Firſt, Pride.</item>
+               <item>Secondly, Affectation of Novelty in Words and Phraſes.</item>
+               <item>Thirdly, Bold Ignorance. And</item>
+            </list>
+            <p n="1">1. Schiſm flows from the ſame Fountain of Pride that Hereſie does: ſo that what St. <hi>Hierom</hi> ſaid of Hereticks, is alſo true of Schiſmaticks,
+<pb n="21" facs="tcp:36150:14"/>
+               <note n="o" place="margin">Matrem ha<g ref="char:EOLunhyphen"/>bent iniquita<g ref="char:EOLhyphen"/>tis ſue ſuper<g ref="char:EOLhyphen"/>biam dum in Eccleſiae contu<g ref="char:EOLhyphen"/>meliam debac<g ref="char:EOLhyphen"/>chantur. <hi>Hic<g ref="char:EOLhyphen"/>ronym. Com<g ref="char:EOLhyphen"/>ment. in Hoſ. verſ. 5.</hi>
+               </note> 
+               <hi>[they have pride the mother of their iniquity, whilſt they rage to the contumely and reproach of the Church:]</hi> and this made <hi>Iraeneus</hi> joyn them together, who calls them,<note n="p" place="margin">
+                  <hi>Scindentes elatos, &amp; ſibi placentes.</hi> Iren. adverſus Haereſ lib. 4. cap. 3.</note> 
+               <hi>Schiſmatical, proud, and ſelf-pleaſing men;</hi> who out of a high opinion of their own gifts and perfections, un<g ref="char:EOLhyphen"/>dertake to dictate to Church-Governours, and teach thoſe <hi>Captains</hi> of the <hi>Church Militant,</hi> their ſeveral <hi>Poſtures</hi> in the <hi>Service</hi> of the <hi>Lord of Hoſts: Cynthius aurem vellit &amp; admonuit;</hi> their Spiritual Pride makes them pretend to Inſpira<g ref="char:EOLhyphen"/>tion, and (like the Pea in <hi>Mahomets</hi> ear) brings the Dove, the Holy Dove, to whiſper to them, what is moſt fit and convenient. And as I told you Hereſie did, ſo alſo</p>
+            <p n="2">2ly. Does Schiſm flow from Affectation of Novelty in Words and Phraſes: O how happy and peaceable had the affairs of Chriſtendom been! if men had not too much affected new Words and Phraſes, and too nicely ſifted and winnow'd Divinity, by not contenting them<g ref="char:EOLhyphen"/>ſelves with the general forms and ways of ex<g ref="char:EOLhyphen"/>preſſing the Truth; and hath not this our Age been acquainted with many? who, that they might make the Church look more like <hi>Joſeph</hi>'s party-colour'd Coat, than our Lord and Savi<g ref="char:EOLhyphen"/>ours, which had neither <hi>Seam</hi> nor <hi>Rent</hi> in it, make uſe of <hi>Canting Phraſes,</hi> calculated for the Climate of their <hi>Exotick Divinity,</hi> and obtruded upon the world in lieu of better. They ſpeak the language of <hi>Aſhdod,</hi> rather than that of <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> and ſeparate from us in their very words and phraſes; you may know them by their <hi>Thou</hi>
+               <pb n="22" facs="tcp:36150:15"/>
+and <hi>Thee</hi> in their ordinary diſcourſes, as the <hi>Gileadites</hi> might diſtinguiſh their Enemies from their Friends, by the pronouncing of <hi>Shibboleth.</hi> And then,</p>
+            <p n="3">3ly. Schiſm (as well as Hereſie) proceeds from Bold Ignorance; becauſe theſe ignorant Zealots have not <hi>Light</hi> proportionable to their <hi>Heat,</hi> and want <hi>Knowledge</hi> to hold a <hi>Candle</hi> to them, they become <hi>Schiſmatical:</hi> St. <hi>Paul</hi> indeed tells us, <hi>Gal.</hi> 4.18. that <hi>'tis good to be zealouſly affected,</hi> but it be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in a good thing;</hi> and not only ſo, for he ſpeaks of ſome who had the beſt of zeals, the <hi>zeal of God,</hi> and yet in them too there was ſomething wanting, they had it not <hi>according to knowledge, Rom.</hi> 10.2. I will take a ſtep into St. <hi>Auguſtines</hi> path, and add a third poſſible de<g ref="char:EOLhyphen"/>fect, and that is, in the <hi>Qualification</hi> or <hi>Condition</hi> of the perſons, according to which (as he ob<g ref="char:EOLhyphen"/>ſerves) zeal will admit of a directly oppoſite Specification, <hi>in bonitate &amp; malitiâ,</hi> and there<g ref="char:EOLhyphen"/>fore he commends it as good in <hi>David,</hi> who was a wiſe King, when he ſaid, <hi>the zeal of thy houſe hath eaten me up;</hi> but on the other ſide, con<g ref="char:EOLhyphen"/>demns it as bad, and miſ-beſeeming the ignorant multitude, (the Arm of whoſe diſcretion and judgment was not able to weild a weapon of that ſize) when 'tis ſaid of them,<note n="q" place="margin">
+                  <hi>Zelus occu<g ref="char:EOLhyphen"/>pavit plebem ineruditam.</hi> Aug. de Civit. Dei l. 20. c. 12.</note> 
+               <hi>Zeal hath poſſeſs'd an ignorant people:</hi> I have read of the Embaſſadors of the <hi>Sarmatae,</hi> that attending<note n="r" place="margin">Hiſt. of the Roman Emp. <hi>vita V lentin.</hi> p. 341.</note> 
+               <hi>Valentinian</hi> the Firſt, and telling him that (as baſely clad as they were) they were the prime men of that Nation; he fell into ſuch a Paſſion for waging War with ſo baſe a people,
+<pb n="23" facs="tcp:36150:15"/>
+that he dyed ſuddenly: So if Religion in theſe dayes did but view well the <hi>Grandees of Schiſm</hi> in their <hi>Mechanick Habits,</hi> and ſeriouſly conſi<g ref="char:EOLhyphen"/>der, with what a <hi>Ragged Regiment</hi> of ignorance, and impudence, ſhe hath ſo long encountred, ſhe would leave and forſake us out of indignation. And thus having too clearly demonſtrated, how nearly related and allied <hi>Schiſmaticks</hi> and <hi>Here<g ref="char:EOLhyphen"/>ticks</hi> are, as being derived from the ſame Foun<g ref="char:EOLhyphen"/>tains; I ſhall make my humble addreſs to thoſe, who have power to <hi>inflict that puniſhment</hi> my Text appropriates to ſuch offenders, in thoſe words which <hi>Tully</hi> ſpake of <hi>Catiline</hi>'s Conſpiracy,<note n="ſ" place="margin">Orat. 2. in Catilina. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Lenitati jam non eſt locus, ſeveritatem res ipſa flagitat,</hi> there is no place left for lenity and gentleneſs, Severity is now a neceſſary piece of Juſtice; for he is a bad Chirurgeon, that out of pity ſpares the part corrupted, till the Gangrene ſpread; and all the body periſh: He who is mer<g ref="char:EOLhyphen"/>cifull to the bad, is cruel to the good; the keys of <hi>Eccleſiaſtical Cenſures</hi> muſt therefore always be in your <hi>Hands,</hi> and not only <hi>hang at your Girdles;</hi> they muſt not lye <hi>ruſting</hi> by you, but be kept <hi>bright</hi> by conſtant uſe: for tame mercy is the Breaſt that ſuckles <hi>Schiſm</hi> and <hi>Hereſie,</hi> till (<hi>Hydra</hi>-like) they multiply their heads, and become inſuperable; 'tis therefore incumbent upon all (who are intruſted with this power) to ſee that ſuch Offenders be ſoundly ſcourg'd with the <hi>Paſtoral Rod;</hi> that they be cut off from the body of the Church, with the Spiritual Sword of <hi>Excommunication;</hi> of which I may ſay the ſame that <hi>David</hi> did of <hi>Goliah</hi>'s Sword, <hi>there is
+<pb n="24" facs="tcp:36150:16"/>
+none like it;</hi> and that eſpecially, becauſe it does not cut a member off from the <hi>Inward Commu<g ref="char:EOLhyphen"/>nion,</hi> but from the <hi>Outward</hi> only; and that, to the end he may be brought in again; delivering only to <hi>Satan for the deſtruction of the fleſh, that the Spirit may be ſaved in the day of the Lord Jeſus,</hi> 1 <hi>Cor.</hi> 5.5. this weapon, this blow, hurt<g ref="char:EOLhyphen"/>eth not but where it meets with a ſtiff neck: it drives out Offenders that it may draw them in, it <hi>Anathematizes</hi> that it may <hi>Canonize;</hi> it puts them to <hi>ſhame,</hi> that they may be aſham'd to ſtay out, but return again into the <hi>Boſom of the Church:</hi> To this purpoſe God of his mercy diſpoſe the minds of all that have lived in Error, to the en<g ref="char:EOLhyphen"/>tertainment of the Truth, that ſo we may at laſt with one conſent, with one heart, and voice, ſend up to God this Petition of our Litany, with which I ſhall conclude, <hi>From all falſe Doctrine, Hereſie, and Schiſm, Good Lord deliver us.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36150:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
